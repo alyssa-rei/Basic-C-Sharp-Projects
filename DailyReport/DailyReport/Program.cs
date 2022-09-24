@@ -22,7 +22,7 @@ namespace DailyReport
             Console.WriteLine("What is your name?");
 
             // Stores user input as string variable "myName",
-            // prints user name, and asks what course their on
+            // prints user name, and asks what course they're on
             string myName = Console.ReadLine();
             Console.WriteLine("Great, " + myName + "! What course are you on?");
 
