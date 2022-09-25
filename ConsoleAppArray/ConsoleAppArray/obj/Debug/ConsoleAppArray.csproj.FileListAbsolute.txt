@@ -1,0 +1,7 @@
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe.config
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.pdb
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.AssemblyReference.cache
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.CoreCompileInputs.cache
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.exe
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.pdb
