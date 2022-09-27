@@ -9,7 +9,7 @@ class Program
 {
     static void Main()
     {
-        // Creates String Array; values given for indices 0-4.
+        // Creates String Array; values given for indices 0-3.
         // Prints message to user, asking them to select which
         // index they'd like to view. If the index exists, user
         // will see its value; if not, a message will print stating so.
@@ -35,7 +35,7 @@ class Program
 
 
 
-        // Creates Integer Array; values given for indices 0-4.
+        // Creates Integer Array; values given for indices 0-3
         // Prints message to user, asking them to select which
         // index they'd like to view. If the index exists, user
         // will see its value; if not, a message will print stating so.
@@ -62,7 +62,7 @@ class Program
 
 
 
-        // Creates String List; values given for indices 0-4.
+        // Creates String List; values given for indices 0-3.
         // Prints message to user, asking them to select which
         // index they'd like to view. If the index exists, user
         // will see its value; if not, a message will print stating so.
