@@ -1,0 +1,7 @@
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\SixPartConsoleApp\SixPartConsoleApp\bin\Debug\SixPartConsoleApp.exe.config
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\SixPartConsoleApp\SixPartConsoleApp\bin\Debug\SixPartConsoleApp.exe
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\SixPartConsoleApp\SixPartConsoleApp\bin\Debug\SixPartConsoleApp.pdb
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\SixPartConsoleApp\SixPartConsoleApp\obj\Debug\SixPartConsoleApp.csproj.AssemblyReference.cache
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\SixPartConsoleApp\SixPartConsoleApp\obj\Debug\SixPartConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\SixPartConsoleApp\SixPartConsoleApp\obj\Debug\SixPartConsoleApp.exe
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\SixPartConsoleApp\SixPartConsoleApp\obj\Debug\SixPartConsoleApp.pdb
