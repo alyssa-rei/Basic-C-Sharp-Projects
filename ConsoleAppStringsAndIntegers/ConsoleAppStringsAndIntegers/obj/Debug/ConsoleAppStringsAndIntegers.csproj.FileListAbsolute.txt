@@ -1,0 +1,7 @@
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\ConsoleAppStringsAndIntegers.exe.config
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\ConsoleAppStringsAndIntegers.exe
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\ConsoleAppStringsAndIntegers.pdb
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.exe
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.pdb
