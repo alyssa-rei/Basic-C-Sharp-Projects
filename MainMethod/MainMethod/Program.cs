@@ -30,10 +30,10 @@ namespace MainMethod
             int totalOne = method.method(userInteger);
             Console.WriteLine("\n" + userInteger + " + " + 20 + " = " + totalOne);
             // Calling the second method and printing the math operation.
-            int totalTwo = (int)method.method(userDecimal);
+            int totalTwo = method.method(userDecimal);
             Console.WriteLine("\n" + userDecimal + " - " + 20 + " = " + totalTwo);
             // Calling the third method and printing the math operation.
-            string totalThree = method.method(userString);
+            int totalThree = method.method(userString);
             Console.WriteLine("\n" + userString + " * " + 20 + " = " + totalThree);
 
             Console.ReadLine();

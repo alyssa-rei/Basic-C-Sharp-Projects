@@ -18,7 +18,7 @@ namespace MainMethod
 
         // Creating Method Two; taking in the received, decimal parameter,
         // subtracting it by 20, then printing the total.
-        public decimal method(decimal var)
+        public int method(decimal var)
         {
             decimal totalTwoDecimal = var - 20;
             int totalTwo = Convert.ToInt32(totalTwoDecimal);
@@ -27,18 +27,17 @@ namespace MainMethod
 
         // Creating Method Three; taking in the received parameter,
         // multiplying it by 20, if possible, then printing the total.
-        public string method(string var)
+        public int method(string var)
         {
             try
             {
                 int totalThreeString = Convert.ToInt32(var) * 20;
-                string totalThree = Convert.ToString(totalThreeString);
-                return totalThree;
+                return totalThreeString;
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
-                return ex.Message;
+                return 0;
             }
         }
     }
