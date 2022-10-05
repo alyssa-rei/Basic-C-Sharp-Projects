@@ -1,0 +1,7 @@
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\MethodClass\MethodClass\bin\Debug\MethodClass.exe.config
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\MethodClass\MethodClass\bin\Debug\MethodClass.exe
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\MethodClass\MethodClass\bin\Debug\MethodClass.pdb
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\MethodClass\MethodClass\obj\Debug\MethodClass.csproj.AssemblyReference.cache
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\MethodClass\MethodClass\obj\Debug\MethodClass.csproj.CoreCompileInputs.cache
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\MethodClass\MethodClass\obj\Debug\MethodClass.exe
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\MethodClass\MethodClass\obj\Debug\MethodClass.pdb
