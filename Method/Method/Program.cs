@@ -23,23 +23,23 @@ namespace Method
             TwoIntegers method = new TwoIntegers();
 
             // If the user decides NOT to enter a second integer,
-            // a message will print, stating so. Method One will be
+            // a message will print, stating so. "Method" will be
             // called and the integer the user entered will then be
             // added with 10 and the equation will be displayed.
             if (y == "")
             {
                 double xAmount = x + 10;
-                double amount2 = method.methodOne(xAmount);
+                double amount2 = method.method(xAmount);
                 Console.WriteLine("\nYou didn't enter a second integer, so...\n" +
                     x + " + " + 10 + " = " + amount2);
             }
             // If the user decides to provide a second integer,
-            // Method Two will be called and it will be added with
+            // "Method" will be called and it will be added with
             // the first integer and 10. The equation is then displayed.
             else if (y != null)
             {
                 double yAmount = Double.Parse(y);
-                double amount = method.methodTwo(x, yAmount);
+                double amount = method.method(x, yAmount);
                 Console.WriteLine("\n" + x + " + " + yAmount + " + " + 10 + " = " + amount); 
             }
 
