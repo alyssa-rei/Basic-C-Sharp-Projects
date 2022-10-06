@@ -1,0 +1,7 @@
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ClassSubmission\ClassSubmission\bin\Debug\ClassSubmission.exe.config
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ClassSubmission\ClassSubmission\bin\Debug\ClassSubmission.exe
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ClassSubmission\ClassSubmission\bin\Debug\ClassSubmission.pdb
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ClassSubmission\ClassSubmission\obj\Debug\ClassSubmission.csproj.AssemblyReference.cache
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ClassSubmission\ClassSubmission\obj\Debug\ClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ClassSubmission\ClassSubmission\obj\Debug\ClassSubmission.exe
+C:\Users\spoil\OneDrive\Desktop\Basic_C#_Programs\ClassSubmission\ClassSubmission\obj\Debug\ClassSubmission.pdb
